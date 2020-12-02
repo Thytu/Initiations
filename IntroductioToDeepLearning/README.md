@@ -13,9 +13,9 @@ We presented you a simple convolutional model to classify the Fashion MNSIT data
 
 Quick recap: 
 
-- torchvision allow you to fetch well known dataset
-- torch.optim give you a whole bunch of optimizer
-- torch.nn let you acces to multiple layers as Conv2D, Dense, etc.
+- `torchvision` allow you to fetch well known dataset
+- `torch.optim` give you a whole bunch of optimizer
+- `torch.nn` let you acces to multiple layers as Conv2D, Dense, etc.
 
 Feel free to read the notebook every time you need.
 
@@ -29,7 +29,7 @@ But don't worry here is a manual to help you reach this goal.
 
 ### Manual
 
-**Goal:** You must reach a accuracy to 80% on the testing set.
+**Goal:** You must reach an accuracy to 80% on the testing set.
 
 **Step to follow:**
 
