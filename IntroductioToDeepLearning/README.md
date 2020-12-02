@@ -9,7 +9,7 @@ Another well known framework is Tensorflow, but due to its simplicity we will no
 
 ## Live Coding
 
-We presented you a simple convolutional model to classify the Fashion MNSIT dataset.
+We presented you a simple [convolutional model](liveCoding.ipynb) to classify the Fashion MNSIT dataset.
 
 Quick recap: 
 
