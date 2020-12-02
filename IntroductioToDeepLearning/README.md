@@ -39,9 +39,9 @@ Due to the fact the dataset is composed of audio you will need to <ins>preproces
 
 Few tips:
 
-- Use scipy to create the spectrogrammes
-- Use matplotlib to save the images
-- Use h5py to create a more handleable
+- Use [scipy](https://docs.scipy.org/doc/scipy/reference/) to create the spectrogrammes
+- Use [matplotlib](https://matplotlib.org/3.1.1/) to save the images
+- Use [h5py](https://github.com/h5py/h5py) to create a more handleable
 
 After creating your `hdf5` file you need to <ins>create your Network</ins>.
 
