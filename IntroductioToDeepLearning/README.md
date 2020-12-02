@@ -22,9 +22,7 @@ Feel free to read the notebook every time you need.
 ## Speech commands prediction
 
 Now you saw the bases of pytorch, it's time to practice.
-
-You will create a convolutional model using pytorch to predict few speech commands.
-But don't worry here is a manual to help you reach this goal.
+You will create a convolutional model using pytorch to predict few speech commands but don't worry here is a manual to help you reach this goal.
 
 
 ### Manual
