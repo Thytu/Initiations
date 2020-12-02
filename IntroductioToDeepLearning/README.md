@@ -15,7 +15,7 @@ Quick recap:
 
 - `torchvision` allow you to fetch well known dataset
 - `torch.optim` give you a whole bunch of optimizer
-- `torch.nn` let you acces to multiple layers as Conv2D, Dense, etc.
+- `torch.nn` let you acces to multiple layers as `Conv2D`, `Dense`, etc.
 
 Feel free to read the notebook every time you need.
 
