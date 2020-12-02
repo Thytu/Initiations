@@ -33,7 +33,7 @@ But don't worry here is a manual to help you reach this goal.
 
 **Step to follow:**
 
-Due to the fact the dataset is composed of audio you will need to **preprocess** the dataset.
+Due to the fact the dataset is composed of audio you will need to <ins>preprocess the dataset</ins>.
 
 1. From each audio create it respective spectrogramme
 2. Make shure there are no useless informations like scale, padding, etc.
@@ -45,7 +45,7 @@ Few tips:
 - Use matplotlib to save the images
 - Use h5py to create a more handleable
 
-After creating your *hdf5* file you need to create your **Network**.
+After creating your `hdf5` file you need to <ins>create your Network</ins>.
 
 1. Create you sequential model
 2. Add Convolutional layers
