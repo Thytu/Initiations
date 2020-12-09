@@ -54,4 +54,4 @@ After creating your `hdf5` file you will need to <ins>create your Network</ins>.
 Now you're good to go !
 
 1. Create your train and test function
-2. Display your the accuracie
+2. Display the accuracy
